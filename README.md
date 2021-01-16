@@ -1,2 +1,2 @@
-# PyProjects
-Some small programms, I wrote in Python
+# Python3 projects
+some small useful scripts
